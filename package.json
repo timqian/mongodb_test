@@ -1,0 +1,14 @@
+{
+  "name": "mogodb_test",
+  "version": "1.0.0",
+  "description": "test mongodb driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "timqian",
+  "license": "MIT"
+}
