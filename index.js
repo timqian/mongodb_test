@@ -1,4 +1,4 @@
-// do this first: mongod --dbpath ~/data/db
+// do this first: mongod --dbpath ./data/db
 'use strict'
 
 let MongoClient = require('mongodb').MongoClient
